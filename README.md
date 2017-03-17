@@ -3,7 +3,7 @@ This repository will contain documentation of the trust relay protocol and API a
 
 
 ## What is the trust relay protocol
-It is a TLS modelled protocol primarily designed to facilitate attribute information transmission in a manner that doesn't compromise the security or privacy of users. The protocol provides end-to-end encryption and double-blind interfacing between trust providers and trust consumers. 
+It is a TLS modelled protocol primarily designed to facilitate attribute information transmission in a manner that doesn't compromise the security or privacy of users. The protocol provides end-to-end encryption and triple-blind interfacing between trust providers,trust consumers and the Cipheredtrust API. 
 
 
 
